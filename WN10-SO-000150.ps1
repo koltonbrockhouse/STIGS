@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This script configures the system to ignore NetBIOS name release requests except from WINS servers.
+    This script restricts anonymous enumeration of shares.
 
 .NOTES
     Author          : Kolton Brockhouse
